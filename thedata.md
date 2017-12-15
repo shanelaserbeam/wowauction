@@ -29,3 +29,8 @@ Relevent to battle pets (item id: 82800)
 * petSpeciesId : Integer - identifies what species a pet is, ex: Magic or Critter
 
 So far all data sets downloaded contain at least 100000 records.  Many of the records in the individual downloads are repeated, since an auction can be posted for up to 48 hours.
+
+## Battle pets
+---
+
+Battle pets represent a unique item that can be auctioned.  Battle pets are shared across an account, so any character regardless of faction or server has access to the same pets.  Thus it is possible to buy a pet on one server and sell it on another, allowing for a transfer of funds from one server to another.
