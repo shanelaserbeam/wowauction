@@ -6,4 +6,4 @@ An analysis of World of Warcraft (WOW) auction data.
 This is intended to be a learning project utilizing information about World of
  Warcraft (abbreivated WOW) auctions.
 
- [A more in depth introduction](../introduction.md)
+ [A more in depth introduction](..blob/master/introduction.md)
