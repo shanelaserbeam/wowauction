@@ -15,7 +15,7 @@ The information included in the data is as follows:
 * bid : Integer - the amount required to bid on an auction
 * buyout : Integer - the amount required to purchase the auction right away
 * quantity : Integer - the number of items in the current auction.  Some items (like profession material) can be stacked up to 200.  If it does not stack, this value will be 1
-timeLeft : String this represents how long is left in the auction.  Values will be "Very Long", "Long", "Medium" or "Short"
+* timeLeft : String this represents how long is left in the auction.  Values will be "Very Long", "Long", "Medium" or "Short"
 * rand : Integer - some times have random elements to them (such as stats) otherwise this value is 0
 * seed : Integer - see above
 * context : Integer - see above
