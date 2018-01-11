@@ -2,7 +2,7 @@
 
 WOW runs multiple servers that player can choose when they create a character.  I decided to start with data from the Wyrmrest Accord server, since that's where the bulk of my characters are located.  Some servers are connected, meaning that multiple servers functionally act as one.  Connected realms share a single auction house.  Wyrmrest Accord is not a connected server.
 
-Wyrmrest Accord is a RP server, which has roughly a 50/50 split between Alliance and Horde players (some are more heavily weighted for one faction or the other).  It is classified as having a "Medium" population.
+Wyrmrest Accord is a RP (Roleplay) server, which has roughly a 50/50 split between Alliance and Horde players (some are more heavily weighted for one faction or the other).  It is classified as having a "Medium" population.
 
 Utilizing the Blizzard API, one can download the auction data for individual servers.  This data is updated, according to documentation, every hour.
 
