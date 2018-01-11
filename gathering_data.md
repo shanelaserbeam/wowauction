@@ -15,6 +15,6 @@ Since the data is approximately updated once an hour and does vary slightly on t
 
 When fresh data is available, the script pulls the json, appends the timestamp, and saves the file.  Since every file is pulled as "auctions.json", the naming convention of "auction<timestamp>.json" was used.  This way the timestamp is recored both in the record and the file name. The file is saved in a "data" folder for ease of file management.
 
-Once completed, I set up an EC2 on Amazon AWS (free tier) and ran it using screen to allow for the script to run indefinitely, or at least until the EC2 is shut down/restarted.  The server was shut down a few times.  First because of an issue an email sent in error stating that the EC2 was going over its runtime (another email was sent to state that the original email was sent in error).  A second time was in light of Amazon dealing with the issues with the Intel chips.
+Once completed, I set up an EC2 on Amazon AWS (free tier) and ran it using screen to allow for the script to run indefinitely, or at least until the EC2 is shut down/restarted.  The server was shut down a few times.  First because of an issue an email sent in error stating that the EC2 was going over its runtime allowance (another email was sent to state that the original email was sent in error).  A second time was in light of Amazon dealing with the issues with the Intel chips.
 
 Data was gathered for the last week or so from 2017 and has been started up again.
